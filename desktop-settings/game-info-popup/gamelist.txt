@@ -1,0 +1,140 @@
+First-Person Shooter:
+    
+    Aliens versus Predator 2
+    Aliens versus Predator 2: Primal Hunt
+    Amid Evil
+    Battlefield 1942
+    Battlefield: Vietnam
+    Battlefield 2
+    Blood
+    Call of Duty
+    Call of Duty 2
+    Call of Duty 4: Modern Warfare
+    Call of Duty: World at War
+    Counter Strike (FreeCS - CS 1.5)
+    Crysis
+    Doom
+    Doom: Sigil
+    Doom II: Hell on Earth
+    Doom 3
+    Doom 3: Resurrection of Evil
+    Final Doom: The Plutonia Experiment
+    Final Doom: TNT Evilution
+    Duke Nukem 3D
+    Dusk
+    F.E.A.R.
+    Half-Life
+    Half-Life: Opposing Force
+    Half-Life 2
+    Half-Life 2: Episode One
+    Half-Life 2: Episode Two
+    Halo: Combat Evolved (trial)
+    Halo 2
+    Heretic
+    Marathon
+    Marathon 2: Durandal
+    Marathon Infinity
+    Medal of Honor: Allied Assault
+    Portal
+    Quake
+    Quake 2
+    Quake 3
+    Return to Castle Wolfenstein
+    Serious Sam: The First Encounter
+    Serious Sam: The Second Encounter
+    Shadow Warrior
+    Star Trek: Voyager: Elite Force (multiplayer only)
+    System Shock 2
+    Thief: Gold
+    Unreal: Gold
+    Unreal Tournament
+    Unreal Tournament 2004
+    Unvanquished
+    Xonotic
+
+Real-Time Strategy:
+
+    0 A.D.
+    Age of Empires II: The Conquerors
+    Age of Mythology: The Titans
+    Command & Conquer: Tiberian Dawn
+    Command & Conquer: Tiberian Sun
+    Command & Conquer 3: Tiberium Wars
+    Command & Conquer: Red Alert
+    Command & Conquer: Red Alert 2
+    Command & Conquer: Red Alert 3
+    Dungeon Keeper: Gold
+    Homeworld: Remastered
+    Myth II
+    StarCraft
+    Star Wars: Galactic Battlegrounds
+    Supreme Commander
+    Warcraft II: Tides of Darkness
+    Warzone 2100
+    Widelands
+    Zero-K
+    
+Role-Playing Game:
+
+    Baldur's Gate
+    Baldur's Gate 2: Shadows of Amn
+    Deus Ex
+    Diablo
+    Diablo: Hellfire
+    Diablo II: Lord of Destruction
+    Divinity: Original Sin: Enhanced Edition
+    Fallout 2
+    Fallout 3: Game of the Year Edition
+    Fallout: New Vegas
+    Grim Dawn
+    Icewind Dale
+    Icewind Dale 2
+    Neverwinter Nights
+    Star Wars: Knights of the Old Republic
+    The Elder Scrolls III: Morrowind
+    The Elder Scrolls IV: Oblivion
+    The Legend of Zelda: A Link to the Past
+    The Legend of Zelda: Ocarina of Time
+    
+Third-Person & Shoot Em' Ups:
+
+    Nox
+    Star Wars: Jedi Academy
+    Star Wars: Battlefront (classic, 2004)
+    Star Wars: Battlefront II (classic, 2005)
+    Gears of War
+    Grand Theft Auto 2
+    Rayman Origins
+    Super Mario 64 (sm64ex-coop)
+    Tomb Raider
+    Tyrian
+    
+Simulation & Building:
+
+    SimCity 3000: Unlimited
+    SimCity 4: Deluxe
+    Factorio
+    FlightGear
+    IL-2 Sturmovik: 1946
+    Minetest
+    Transport Tycoon Deluxe
+    RollerCoaster Tycoon
+    Stardew Valley
+    Terraria
+    The Sims: Complete Edition
+    
+Racing, Car Combat & Skateboarding:
+
+    Driver 2
+    FlatOut 2
+    Midtown Madness
+    Midtown Madness 2
+    Need for Speed II: Special Edition
+    Re-Volt
+    Tony Hawk's Underground 2
+    Tony Hawk's Underground 2 (THUG Pro)
+    Twisted Metal 2
+    
+Arcade:
+
+    3D Space Cadet Pinball

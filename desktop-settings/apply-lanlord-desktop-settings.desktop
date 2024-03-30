@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Apply LANLord desktop settings
+Exec=/usr/share/games/local/desktop-settings/copy-desktop-settings.sh
+Comment=Apply custom LANLord desktop settings to current user
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=preferences-desktop-remote-desktop-symbolic
+Type=Application
+Name[en_US]=apply-lanlord-desktop-settings

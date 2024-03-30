@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Restore save games
+Exec=gnome-terminal -e /usr/share/games/local/desktop-settings/savegame-backuper/savegame-restorer.sh
+Comment=
+Terminal=true
+PrefersNonDefaultGPU=false
+Icon=mintbackup-restore-data
+Type=Application

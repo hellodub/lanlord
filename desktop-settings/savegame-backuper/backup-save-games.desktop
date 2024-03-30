@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Backup save games
+Exec=gnome-terminal -e /usr/share/games/local/desktop-settings/savegame-backuper/savegame-backuper.sh
+Comment=
+Terminal=true
+PrefersNonDefaultGPU=false
+Icon=mintbackup-data
+Type=Application

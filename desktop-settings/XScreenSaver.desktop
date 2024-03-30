@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=xscreensaver -nosplash
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=XScreenSaver
+Comment[en_US]=start cool xscreensaver
+X-GNOME-Autostart-Delay=0
