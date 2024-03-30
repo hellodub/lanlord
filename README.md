@@ -1,4 +1,5 @@
-# The LANLord: an adapted LTSP server for hosting LAN parties
+# The LANLord
+## an adapted LTSP server for hosting LAN parties
 
 Mostly just a bunch of bash scripts for copying/backing up relevant desktop settings/game settings/wine prefixes for multiple users
 
